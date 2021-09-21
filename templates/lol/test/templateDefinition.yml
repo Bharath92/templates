@@ -1,1 +1,1 @@
-{{ .Values.yml }}
+{{ .Values }}
